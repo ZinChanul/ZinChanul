@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZinChanul
+- 👋 Hi, I’m chanul
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning ICT 
 - 💞️ I’m looking to collaborate on ...
